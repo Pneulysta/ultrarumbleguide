@@ -15,9 +15,37 @@ For this guide only, every term that isn't just normal speech will be linked to 
 ### Pre-Lobby: Character Selection
 Before going into a match, you gotta know which character you want to play as. Every new player starts with the following characters: Izuku Midoriya, Ochaco Uraraka, Cementoss, Mt. Lady, Tomura Shigaraki and Dabi. Normally, Mt Lady, Tomura Shigaraki and Dabi are the two characters that are the easiest for people to play with. Mt Lady is decent in her small form at new player levels, but her ability to turn giant stomps other new players with ease. Tomura Shigaraki is a very high damage character, while Dabi uses traps and has quite a defensive gameplay that can be turned into offense. If you have good aim, then Izuku Midoriya will probably work the best for you. Cementoss is usually the hardest choice for beginners even though he's a great character.<br>
 <br>
-You might notice that some characters appear more than once with a different background color, like Red Bakugo and Blue Bakugo. These are the different sets of skills the character can use, for example, yellow Izuku Midoriya shoots, kicks, and can use blackwhip for mobility, while red Izuku Midoriya shoots, stomps the ground with the heel, and creates rock barriers. These colors indicate which role the set of skills is:
+You might notice that some characters appear more than once with a different background color, like Red Bakugo and Blue Bakugo. These are the different sets of skills the character can use, for example, yellow Izuku Midoriya shoots, kicks, and can use blackwhip for mobility, while red Izuku Midoriya shoots, stomps the ground with the heel, and creates rock barriers. These colors indicate which role the set of skills is, which also indicates (or attempts to, since many characters fit other roles) what they specialize in:
 
+### <a style="color: rgba(255,100,100,255) !important;">**Strike - The Damage and Aggression Class**</a><br>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/strikebig.png" /></br>
+</p>
+Strike Characters focus on damage and/or aggressive playstyles. Characters like Present Mic, Red Itsuka Kendo, Red Denki Kaminari, Red Shoto Todoroki and Red Tomura Shigaraki can deal outstanding amouns of damage in little time. Carrying characters with this role gives the whole party a damage boost that grows higher the more characters with this role are on the team. Characters with this role are often referred to by the community as "Red" or "Strike", after which follows the character's name.
 
+### <a style="color: yellow !important;">**Assault - The Defense, Close-Combat and Heavyweight Class**</a><br>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/assaultbig.png" /></br>
+</p>
+Assault Characters can focus on defense and close-combat (like Yellow Itsuka Kendo and Yellow Eijiro Kirishima), have massive attacks that cover a wide area and are often slightly slow to execute (Yellow Endeavor, Young All For One, Mt Lady) or remain in a more neutral ground (Yellow Deku and Yellow Tomura Shigaraki). Carrying characters with this role gives the whole party a defense boost that grows higher the more characters with this role are on the team. Characters with this role are often referred to by the community as "Yellow" or "Assault", after which follows the character's name.
+
+### <a style="color: cyan !important;">**Rapid - The Fast and Agile Class**</a><br>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/rapidbig.png" /></br>
+</p>
+Rapid Characters focus on agility and/or speed, they're often highly mobile and slippery characters that usually have an easy time moving from one place to another, and sometimes even be difficult to hit due to their agility or staying in the air for long. These character's are usually characterized by having the lowest HP on the game, which makes them more fragile than the rest of the cast in that regard. Carrying characters with this role gives the whole party a speed boost that grows higher the more characters with this role are on the team. Characters with this role are often referred to by the community as "Blue" or "Rapid", after which follows the character's name.
+
+### <a style="color: green !important;">**Support - The Protection and Revival Class**</a><br>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/supportbig.png" /></br>
+</p>
+Support Characters focus on interrupting the enemy with abilities that easily stop their movement and/or abilities to block exits, as well as often possessing other helpful skills like healing (Overhaul) or resurrection (Ibara, Cementoss) skills. Keep in mind that even though these characters have support characteristics, they very well work as competent damage dealers, sometimes even performing better than characters in the Strike Class. Carrying characters with this role gives the whole party a healing boost when using small healing items that grows higher the more characters with this role are on the team. Characters with this role are often referred to by the community as "Green" or "Support", after which follows the character's name.
+
+### <a style="color: rgba(175,100,237,255) !important;">**Technical - The Special and Quirky Class**</a><br>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/technicalbig.png" /></br>
+</p>
+Technical Characters focus on unusual or/and miscelaneous abilities, such as traps (Dabi), copying abilities (Himiko Toga, All For One and Neito Monoma), or other unique abilities like Mirio Togata's counter or Neito Monoma's metal form. Carrying characters with this role gives the whole party a reload boost that grows higher the more characters with this role are on the team. Characters with this role are often referred to by the community as "Purple" or "Tech", after which follows the character's name.
 
 ### Pre-Lobby: Matchmaking and Readying Up
 After selecting the desired Battle Royale sub-gamemode (Unranked, Ranked, Solos, CPU Match...) and clicking "Battle!", your game will enter matchmaking, searching for allies to match you with. These teammates will always be real people, and if you've picked Ranked, then the game will *try* to pair you with people close in rank due to the Skill-Based Matchmaking System, though this isn't guaranteed. In Solos and Unranked this system does not exist, so you can get paired with anyone both on the ally and the enemy side.<br>
