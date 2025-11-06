@@ -175,11 +175,13 @@ Once some time has passed (depending on whether you have Crossplay ON/OFF, the t
 After readying up, all you have to do is wait for the game to find a lobby.
 
 # The Lobby
-Here is where you wait for all players to join and prepare for the match. The lobby's aesthetics change every season, and sometimes it has objects you can play around with. You can attack players or spy their stats by pressing the Interaction Button while upclose. The lobby is where you can socialize and emote with people, having some fun until the match starts. If too much time has passed since the lobby's creation, bots will start to appear, filling the remaining player slots. These bots always wear default costumes and don't have a profile you can check. Bots are most commonly found in Solos, Unranked, Steam lobbies if Crossplay is turned OFF, and if you have been shadowbanned.<br>
-<br>
+Here is where you wait for all players to join and prepare for the match. The lobby's aesthetics change every season, and sometimes it has objects you can play around with. You can attack players or spy their stats by pressing the Interaction Button while upclose. The lobby is where you can socialize and emote with people, having some fun until the match starts. If too much time has passed since the lobby's creation, bots will start to appear, filling the remaining player slots. These bots always wear default costumes and don't have a profile you can check. Bots are most commonly found in Solos, Unranked, Steam lobbies if Crossplay is turned OFF, and if you have been shadowbanned.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/lobbys11.png" width="480" /></br>
+</p><br>
 
 # Sally and Match Start
-Before starting the match, all players have 15 seconds to choose a landing spot, this screen is referred to as Sally. Normally, people land in the areas they like more or the ones that have more loot or have it more accessible, though those are also often more populated, so it's best if you play a few matches and figure out what landing spots you like the most.<br>
+Before starting the match, all players have 15 seconds to choose a landing spot, this screen is referred to as the Sally. Normally, people land in the areas they like more or the ones that have more loot or have it more accessible, though those are also often more populated, so it's best if you play a few matches and figure out what landing spots you like the most.<br>
 <br>
 On the map, you will also see a little box icon, which changes locations every match. This icon indicates the presence of a Large Item Box, from which you can loot valuable items, however keep in mind that usually the box's surroundings are very populated, as everyone else wants this loot too, so it's often recommended to at least not spawn directly at the box, but somewhat nearby, since sometimes all players decide to not risk it, which results in nobody being near the box.<br>
 <br>
@@ -267,12 +269,32 @@ Items are also spread around the world, so boxes aren't the only source of them.
 | <img src="https://ultrarumble.com/assets/Supply/T_ui_HUD_Su020.webp" width="125"> | **Revive Card (Incomplete)** <br>These can be obtained from normal or golden Item Boxes, but the main way to obtain them is from rescuing Civilians, as doing so will drop their respective teamheal and an incomplete Revive Card. As the name suggests, these cards are incomplete, you need 3 so that they can combine into one single Full Revive Card, you can tell both apart because incomplete cards are gray, while full cards are pink. They can stack in one slot.|
 | <img src="https://ultrarumble.com/assets/Supply/T_ui_HUD_Su021.webp" width="125"> | **Revive Card (Full)** <br>After collecting 3 incomplete Revive Cards, these will merge into a full Revive Card. To use it you need to collect your teammate's badges, which look like a white coin and can be found at the location where your teammates died. If you don't know where they died, you can just check the minimap, or look around you, you should see their names floating on-screen. After obtaining this card, just use it and the Revive animation will start. Be aware that a huge pink beam will be emitted from your location, so enemies can see where you're reviving your allies, they can also hear the revive noise. Full Revive Cards can be found in Large Item Boxes without the need of collecting incomplete ones.|
 
-Excluding Team Enhancement Kits, all drinking items make you emit a drinking noise that can be heard by enemies nearby, so keep that in mind.
+Excluding Team Enhancement Kits, all drinking items make you emit a drinking noise that can be heard by enemies nearby, so keep that in mind.<br>
+<br>
+Another type of items are Ability Cards, these can appear red, yellow, blue, green or purple, matching the color of the class they represent. Ability Cards have two purposes: The first is to level up your skills. Unlike the average Level-Up Cards, Ability Cards come in three variations for each class, these being Alpha, Beta and Gamma variations, which you can identify by the greek letters they emanate, as well as the greek letter present on them. If an Ability Card matches your character's class, it will level up the skill matching its greek letter, so Alpha Ability Cards will level up by 1 the Alpha Skill of a character if their class matches the card's.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/abilitycards.png" width="200"/>
+</p>
+
+The other usage of Ability Cards is to trigger special buffs. When you have an Ability Card that doesn't match your class, you have two options: Either you give it to your teammate if it matches their class, or you keep it to yourself. If you do the latter, you can use them in battle by pressing the buttons indicated in the Quick Item bar. Each card grants different buffs based on which of the 5 classes they are from:
+
+<a style="color: rgba(255,100,100,255) !important;">**Strike Ability Card:**</a>Increases the user's damage by 10%.<br>
+<a style="color: yellow !important;">**Assault Ability Card:**</a>Increases the user's defense by 20$.<br>
+<a style="color: cyan !important;">**Rapid Ability Card:**</a>Increases the user's movement and attack speed by 10% and grants them the ability to wallrun.<br>
+<a style="color: lime !important;">**Support Ability Card:**</a>Grants the user a healing field that heals them and allies inside the field. The field moves with you.<br>
+<a style="color: rgba(175,100,237,255) !important;">**Technical Ability Card:</a>Increases reload speed by 50%.<br>
+
+Once you use them, they will grant you their effect for a couple of seconds and vanish afterwards. Ability Cards can be leveled up with Level-Up cards by dragging them to the Ability Card, or by finding another Ability Card that belongs to the same class and has the same greek letter, leveling up these cards will make them last longer.<br>
+Using Ability Cards gives the user a colored shine, so you can sometimes see if the enemy has a special attack, defense, speed, healing or reload boost based on the color of their shining.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/abilitycardauras.png" width="600"/>
+</p>
 
 # Gameplay: Civilians, Stage Destruction, Rescue and Teammate Revival
 # Gameplay: The Poison Mist and the Safe Zone
 # Gameplay: Stage Gimmicks
-# Gameplay: Tips to Win
+# Gameplay: Movement and Agility
+# Gameplay: Useful Shortcuts and Tips to Win
 # Ranked: Ranks and Gaining Points
 # Currencies and Their Usage
 # Missions and The Research Notebook
