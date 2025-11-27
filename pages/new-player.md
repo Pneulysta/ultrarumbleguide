@@ -91,6 +91,7 @@ You might notice that some characters appear more than once with a different bac
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/kendo_strike.png" />
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/tamaki_strike.png" />
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/shinso_strike.png" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mic_strike.png" />
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/endeavor_strike.png" />
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/hawks_strike.png" />
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/shigaraki_strike.png" />
@@ -319,7 +320,7 @@ Around the map you will Green-Shirt and Blue-Shirt Civilians. By interacting wit
 
 Aside from small destructible objects that have no special effects, we also have Destructible Buildings (USJ Map only) and Nezu Boxes. Destroying these have a probability of freeing a Civilian from inside, which can either be green or blue.
 <p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/buildingdestruction.png" width="300"/>
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/1501s2-gif.gif" width="400" />
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/nezubox.png" width="400"/>
 </p>
 
@@ -358,16 +359,46 @@ When traversing the map you will notice the presence of Jump Pads. These make yo
 
 # Gameplay: Movement and Agility
 One of the biggest differences between a noob and a standard player is how they move, and that's because they move very differently. In My Hero Ultra Rumble you can walk, run, dash, roll, jump, climb and do wall-shuffling. Walking consists of simply pressing the forward input, this is slow and normally you don't want to do this, because it's slower, yet many new players do and that renders them vulnerable, in this game you want to be quick and evasive, so learn to move quick. The first step is to stop Walking and begin Running; by pressing the dash input you will perform a tiny dash and start running, this is what you always want to do, running keeps you faster and allows you to get to places quicker, it might sound obvious, but believe me that beginner lobbies are full of people that walk a lot and don't run much.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/monomawalk.gif" width="400" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/monomarun.gif" width="400" />
+</p>
 
 Jumping by itself isn't super special, as your jump height is often low, but some characters like Tsuyu Asui (Froppy) and All For One have higher than usual jumps, which can benefit them. However, jumping is much more useful when using beam attacks that don't lock you in place, like Yellow Deku's alpha, Red Deku's alpha, Red Bakugo's alpha, and overall every shooting skill that lets you move while using it. It's better to use these skills while jumping to the sides to make yourself harder to hit while still attacking.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/monomajump.gif" width="400" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/afoshoot.gif" width="400" />
+</p>
 
 Rolling (Also called Dodging) is an incredibly valuable skill to master, and that will be explained more in-depth in its own section, but to put it simply, the act of rolling makes you invulnerable for a split second, which if timed correctly, can let you ignore the damage of enemy abilities or even their effects. For example, All For One's gamma skill allows him to warp everyone inside of its range to his position, but if you roll at the right moment, you can avoid being warped to his location.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/monomaroll.gif" width="400" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/monomaafododge.gif" width="400" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/monomakiridodge.gif" width="400" />
+</p>
 
 Crouching is another type of movement, which allows you to move without making any noise, which can be occasionally useful to ambush people and sometimes to change your position behind an obstacle without being heard by the enemy if they're looking for you.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/monomacrouch.gif" width="400" />
+</p>
 
-Climbing is your way to get on top of high places when you don't have mobility skills or jump pads. It's pretty slow and leaves you very vulnerable, so you should never climb while being chased unless it's a short fence or any obstacles that are barely tall enough to be climbable. Whenever possible, you should do Wall-Shuffling instead, also known as Wall-Jumping in other games, which consists of jumping from one wall to another and repeat this until you reach the top, keeps you in the move, which makes it better than climbing.
+Climbing is your way to get on top of high places when you don't have mobility skills or jump pads. It's pretty slow and leaves you very vulnerable, so you should never climb while being chased unless it's a short fence or any obstacles that are barely tall enough to be climbable. Whenever possible, you should do Wall-Shuffling instead, also known as Wall-Jumping in other games, which consists of jumping from one wall to another and repeat this until you reach the top, keeps you in the move, which makes it better than climbing. Some abilities only begin reloading once you hit the ground, however clinging to a wall counts as hitting the ground, so keep that in mind.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/monomaclimb.gif" width="400" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/monomashuffle.gif" width="400" />
+</p>
 
 # Gameplay: Useful Shortcuts and Tips to Win
+The game also features special shortcuts and wheels that can be really useful. For example, if you press the "Change Item" key (check your settings to know which button that is) you will access your item wheel, which lets you quickly drink whichever drink you wanna drink without checking the inventory (the Quick Item Bar might not always show the item you really wanna use, so this is useful for that too). Using the Place Marker button on one of these will let your teammates know that you ran out of that specific item, however this has a twist...<br>
+If your teammates use that on Small or Large recovery items, it does mean they ran out of them and need you to give them some if possible, HOWEVER, if this is done on Teamheals, it means that your teammate is in the process of drinking one, and is telling you to do your best to survive so you can be healed. If this is done on Team Enhancement Kits (the ones that level up your whole team), then it usually means that your teammate is asking you or the other teammate to drink it, since people sometimes forget.
+
+If you check the settings, you will also see buttons for "Voice" and "Emote", these will open the voice wheel and the emote wheel respectively.  The voice wheel allows you to use voicelines to communicate with your teammates, such as Greetings (to set up a good mood), a thank you voiceline, an apology voiceline, etc... Don't take voicelines literally every time, since some characters can have pretty rude voicelines for thanking and similar. The emote wheel on the other hand lets you perform little animations to socialize or communicate with the enemy. If you're nice to people in the lobby, you might get treated less harshly in matches, or you might get funny interactions!
+
+If you use the Place Marker button while looking at an item, you will pin it for your allies to see, this is often used on Ability Cards matching your teammate's character class so that they can pick it up and level up. This can also be done with any other items such as healing items or revive cards.
+
+# Gameplay Conclusion
+Overall, whenever you start a match, make sure to stay close to your team, gather healing items, level your skills and fight using your brain. Don't try to fight a team alone, because those who just mindlessly charge at fights alone are prone to die, and that's not good!
+
 # Ranked: Ranks and Gaining Points
 # Currencies and Their Usage
 # Missions and The Research Notebook
