@@ -71,10 +71,18 @@ After Pro Rank follows Expert Rank, also known by some as "Obsidian". You can be
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/expert3.png" width="200"/>
 </p>
 
-After Pro Rank follows the final rank, Ace Rank. Unlike Expert, Pro, Amateur and Beginner, Ace does not have sub-ranks. Once youv'e reached Ace you've basically hit the summit, as there are no more ranks after and you'll obtain the last batch of ranked rewards. To reach Ace Rank you need to reach the 126,000 pts mark. In this rank, the Entry Cost is at the highest, being that of 1,100 pts. 
+After Expert Rank follows the final rank, Ace Rank. Unlike Expert, Pro, Amateur and Beginner, Ace does not have sub-ranks. Once youv'e reached Ace you've basically hit the summit, as there are no more ranks after and you'll obtain the last batch of ranked rewards. To reach Ace Rank you need to reach the 126,000 pts mark. In this rank, the Entry Cost is at the highest, being that of 1,100 pts. 
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/ace.png" width="200"/>
 </p>
 
-However, the grind is not truly over after reaching Ace, since the game offers an actual ranking featuring the 2,500 players with the highest ranked point count. Those that are in the top 1,000 get extra rewards, those who reach top 500 get even better rewards. The top 100 players get the 2nd best rewards, while the top 10 get the best of the best. The difference in terms of non-cosmetic rewards is pretty low, so if you're not somebody with a lot of time then this might not be worth it, but if you do have time, then you can play some more and squeeze some extra tickets. The ranking can be viewed-
+However, the grind is not truly over after reaching Ace, since the game offers an actual ranking featuring the 2,500 players with the highest ranked point count. Thsoe below the top 1,000 will get a small amount of tickets, while those that are in the top 1,000 get extra rewards, those who reach top 500 get even better rewards. The top 100 players get the 2nd best rewards, while the top 10 get the best of the best. The difference in terms of non-cosmetic rewards is pretty low, so if you're not somebody with a lot of time then this might not be worth it, but if you do have time, then you can play some more and squeeze some extra tickets. The ranking can be viewed-
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/mvpscreen.png" width="200"/>
+</p>
 
+There's also another ranking that gives players rewards: The Billboard Chart.
+When opening profiles, you will see a like button. Clicking it will send the player "likes". You can send likes by clicking on an agency's member name in the agency member list or by using the like button in Spectator Mode while you're dead in match. Just like the normal ranked ranking, those below the top 1,000 get a few tickets, while those in the top 1,000, 500, 100 and 10 each get a better set of rewards.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/billboardchart.png" width="200"/>
+</p>
