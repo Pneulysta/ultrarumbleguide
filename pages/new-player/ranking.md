@@ -54,11 +54,11 @@ After Amateur Rank follows Pro Rank, also known by some as "Gold". You can be de
 - Pro IV is reached at the 81,000 pts mark, and your base Entry Cost will be 600 pts until you reach this rank.
 - Pro V is reached at the 101,000 pts mark, and your base Entry Cost will be 650 pts until you reach this rank.
 <p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/pro1.png" width="200"/>
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/pro2.png" width="200"/>
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/pro3.png" width="200"/>
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/pro4.png" width="200"/>
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/pro5.png" width="200"/>
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/pro1.png" width="180"/>
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/pro2.png" width="180"/>
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/pro3.png" width="180"/>
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/pro4.png" width="180"/>
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/pro5.png" width="180"/>
 </p>
 
 After Pro Rank follows Expert Rank, also known by some as "Obsidian". You can be demoted to a lower Expert rank if you lose enough points, but you cannot be demoted back to Pro Rank. The point requirements and Entry Costs are as follows:
